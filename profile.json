@@ -10,6 +10,7 @@
         {"name":"ghidra.fireeye"},
         {"name":"visualstudio2019community"},
         {"name": "git"},
+        {"name": "googlechrome"},
 
         {"name": "dotnet4.6.2"},
         {"name": "dotnet4.7.2"},
